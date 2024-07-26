@@ -423,6 +423,8 @@ Imperfect self-defense (many states): An honest but unreasonable judgment of nec
 
 Involuntary manslaughter is an unintentional killing resulting from unjustified risk creation (recklessness or gross negligence) that is not sufficiently extreme to rise to the level of implied malice.
 
+Involuntary manslaughter is an unintentional killing resulting without malice aforethought caused either by recklessness, criminal negligence, or during the commission or attempted commission of an unlawful act. An unintentional killing that occurs during the commission or attempted commission of a misdemeanor that is malum in se, such as battery, is involuntary manslaughter under the misdemeanor-manslaughter rule. Unlike felony murder, the malum in se misdemeanor does not need to be independent of the cause of death. If a defendant punched the victim, which was a simple battery, and the battery resulted in an unintended death, the defendant is most likely guilty of involuntary manslaughter.
+
 ---
 
 ### Reckless Homicide – Manslaughter
