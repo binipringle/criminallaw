@@ -7,6 +7,82 @@ rights:
 source:
 toc:
 - Constitutional Rights through Due Process Clause
+- Fourth Amendment
+- Seizure
+- Search
+- Reasonable Expectation of Privacy
+- Police Use of Devices or Animals
+- Search and Seizure Pursuant to a Warrant
+- Execution of Warrant
+- Knock-and-Announce Rule
+- Probable Cause
+- Exceptions to the Warrant Requirement
+- Arrests
+- Terry Stops
+- Routine Police Encounter
+- Plain View Exception to the Warrant Requirement
+- Exigency to the Warrant Requirement for Searches
+- Hot Pursuit
+- Search Incident to Arrest
+- Automobile Search Incident to Arrest
+- Automobile Exception to the Warrant Requirement
+- Inventory Exception
+- Consent
+- Third-Party Consent
+- Special Needs Doctrine
+- Border Exception
+- Administrative Searches
+- Terry Frisk or Search
+- Summary of Arrest and Search Warrants
+- Fourth Amendment Remedies
+- Standing and the Exclusionary Rule
+- Standing
+- Exclusionary Rule
+- Fruit of the Poisonous Tree
+- Exceptions To Fruit of the Poisonous Tree
+- Independent Source
+- Inevitable Discovery
+- Attenuation
+- Other Limitations to the Exclusionary Rule
+- Impeachment
+- Good-Faith Exception
+- Statements and Confessions
+- The Due Process Voluntariness Standard
+- Coercion
+- Fifth Amendment Privilege against Self-Incrimination
+- Immunity to Eliminate Risk of Self-Incrimination
+- Fifth Amendment Miranda Rule
+- Valid Waiver
+- Invocation of Miranda Rights
+- Waiver of Miranda Rights
+- Limitations and Exceptions to the Miranda Rule
+- Public Safety Exception to Miranda Rule
+- Effect of Miranda Violation on the Admissibility of Subsequent Confessions
+- Police Reinitiation of Questioning after a Miranda Invocation
+- Sixth Amendment Right to Counsel
+- Police Questioning of a Defendant
+- Fruit of the Poisonous Tree and Confessions
+- Identification Evidence
+- Due Process Standard
+- Sixth Amendment Right to Counsel at Line Up
+- Pretrial Rights and Procedures
+- Grand Jury
+- Bail Hearing
+- Plea Bargaining
+- Charging Discretion and Discriminatory Effect
+- Sixth Amendment Right to a Speedy Trial
+- Discovery Failure to Disclose
+- Guarantees of Fair Trial
+- Right to Counsel at Trial
+- Ineffective Assistance and Plea Bargaining
+- Right to Trial by Jury
+- Makeup of the Jury
+- Sixth Amendment Confrontation Clause
+- Double Jeopardy
+- Same Offense
+- Separate Sovereignties Doctrine
+- Sentencing
+- Footnotes
 
 ---
 
@@ -72,7 +148,7 @@ A trespass on an “open field” (private property beyond the curtilage of the 
 
 ---
 
-### Reasonable Expectation of Privacy
+## Reasonable Expectation of Privacy
 
 For there to be a reasonable expectation of privacy, (1) the defendant must manifest a subjective expectation of privacy by making an effort to the shield thing or activity the police are looking for from the public; and (2)	the expectation is objectively reasonable because it is an expectation society is willing to recognize as legitimate.
 
@@ -99,7 +175,7 @@ The Supreme Court held in Carpenter that even though cell site location informat
 
 ---
 
-### Police Use of Devices or Animals
+## Police Use of Devices or Animals
 
 Normally, police use of devices or animals that enhance human senses does not transform something that is not a search into a search.
 
@@ -113,7 +189,7 @@ Use of commonly available equipment to enhance the natural senses of sight, hear
 
 ---
 
-### Search and Seizure Pursuant to a Warrant
+## Search and Seizure Pursuant to a Warrant
 
 A valid search or seizure (arrest) warrant creates a presumption of Fourth Amendment compliance.
 
@@ -137,7 +213,7 @@ A court will exclude evidence obtained pursuant to a warrant only if (1) the def
 
 ---
 
-### Execution of Warrant
+## Execution of Warrant
 
 Even when police act pursuant to a valid warrant, how they execute it may render their action unreasonable.
 
@@ -147,7 +223,7 @@ EXAMPLE: It is unreasonable to require the removal of a bullet from an individua
 
 ---
 
-### Knock-and-Announce Rule
+## Knock-and-Announce Rule
 
 Police must “knock and announce” their identity before entering the home to execute the warrant.
 
@@ -157,7 +233,7 @@ Violation of the knock-and-announce requirement will not result in exclusion of 
 
 ---
 
-### Probable Cause
+## Probable Cause
 
 The Fourth Amendment requires that the police show probable cause to support issuance of a search or arrest warrant.
 
@@ -177,13 +253,13 @@ EXAM TIP: Corroborating a prediction that any neighbor with an “axe to grind�
 
 ---
 
-### Exceptions to the Warrant Requirement
+## Exceptions to the Warrant Requirement
 
 There are exceptions to the warrant requirement.
 
 ---
 
-### Arrests
+## Arrests
 
 No warrant is required to arrest a suspect in public for a felony.
 
@@ -193,7 +269,7 @@ A misdemeanor arrest requires the offense occur in the officer’s presence or w
 
 ---
 
-### Terry Stops
+## Terry Stops
 
 A Terry stop is a brief investigatory seizure.
 
@@ -215,7 +291,7 @@ EXAM TIP: Remember, if the reasonable suspicion that led to the Terry stop grows
 
 ---
 
-### Routine Police Encounter
+## Routine Police Encounter
 
 If a police encounter in no way restrains the freedom of the individual (i.e., there is no use of force or show of authority followed by submission), it does not trigger the Fourth Amendment and requires no cause.
 
@@ -223,7 +299,7 @@ This chart aligns the different levels of encounters with the requisite levels o
 
 ---
 
-### Plain View Exception to the Warrant Requirement
+## Plain View Exception to the Warrant Requirement
 
 A warrant based on probable cause is presumptively required to authorize a seizure of property.
 
@@ -241,13 +317,13 @@ EXAMPLE: Police obtain a warrant to search a suspect’s home. The officer expec
 
 ---
 
-### Exigency to the Warrant Requirement for Searches
+## Exigency to the Warrant Requirement for Searches
 
 If police have probable cause, they may search without a warrant when they reasonably believe that waiting to obtain a warrant would result in (1) imminent flight; (2) imminent destruction of evidence; or (3) imminent danger to police or others in the area.
 
 ---
 
-### Hot Pursuit
+## Hot Pursuit
 
 When police are in “hot pursuit” of a suspect with probable cause to arrest them, exigency allows them to enter any home the suspect retreats into without a warrant, even the home of a third party.
 
@@ -269,7 +345,7 @@ EXAM TIP: This means a law or policy that allows police to automatically conduct
 
 ---
 
-### Search Incident to Arrest
+## Search Incident to Arrest
 
 Police may automatically conduct a full-blown search of an arrestee and the area within their immediate control/lunging distance (including containers) as an incident of an arrest.
 
@@ -300,7 +376,7 @@ EXAM TIP: Remember, an officer may have probable cause, but may also make a reas
 
 ---
 
-### Automobile Search Incident to Arrest
+## Automobile Search Incident to Arrest
 
 If the suspect is arrested in a car or immediately after exiting the car, the scope of the search incident to arrest is modified.
 
@@ -314,7 +390,7 @@ EXAMPLE: Police arrest a person for driving on a suspended license. The arrestee
 
 ---
 
-### Automobile Exception to the Warrant Requirement
+## Automobile Exception to the Warrant Requirement
 
 **Police may conduct a warrantless probable cause search of a car or any self-propelled conveyance without a warrant.**
 
@@ -342,7 +418,7 @@ EXAMPLE: Police have probable cause to believe that a suspect is transporting a 
 
 ---
 
-### Inventory Exception
+## Inventory Exception
 
 An inventory is an administrative inspection of an impounded vehicle and/or an arrestee’s property once it is taken into police custody, with no requirement for a warrant or probable cause.
 
@@ -356,7 +432,7 @@ Police may inventory the contents of an impounded automobile if authorized by re
 
 ---
 
-### Consent
+## Consent
 
 Voluntary consent allows police to search within the scope of the consent even without a warrant or probable cause.
 
@@ -384,7 +460,7 @@ EXAMPLE: If, in the prior example, the driver said, “You can search the car, b
 
 ---
 
-### Third-Party Consent
+## Third-Party Consent
 
 An officer may reasonably rely on third-party consent so long as the third party had actual or reasonably apparent authority over the area.
 
@@ -396,7 +472,7 @@ EXAM TIP: A present and objecting co-tenant prevails over another co-tenant who 
 
 ---
 
-### Special Needs Doctrine
+## Special Needs Doctrine
 
 This exception permits narrowly tailored seizures and/or searches without any individualized suspicion **when objective facts indicate that the primary purpose of police action is the protection of the public from a serious immediate danger.**
 
@@ -418,7 +494,7 @@ EXAMPLE: Police set up a checkpoint to check bags and backpacks of subway passen
 
 ---
 
-### Border Exception
+## Border Exception
 
 As an incident of national sovereignty, government officials may (1)	stop people and vehicles at permanent checkpoints located at or near (up to 100 miles inland) a border with no individualized suspicion (randomly); and (2)	conduct routine searches of people and property with no individualized suspicion (randomly).
 
@@ -428,7 +504,7 @@ The border exception applies to all international ports of entry, including inte
 
 ---
 
-### Administrative Searches
+## Administrative Searches
 
 This exception is best understood as agency-compliance inspections to determine compliance with health, safety, and administrative codes and regulations.
 
@@ -442,7 +518,7 @@ Airport Screenings: In order to protect airline passengers from weapons and expl
 
 ---
 
-### Terry Frisk or Search
+## Terry Frisk or Search
 
 A Terry frisk is a cursory protective search for weapons or some other instrumentality that creates imminent danger to officer or others in close proximity.
 
@@ -486,7 +562,7 @@ Exclusion is a remedy which requires that (1) there was an unreasonable search o
 
 ---
 
-### Standing
+## Standing
 
 The defendant must show that the unreasonable search or seizure violated the defendant’s personal constitutional rights.
 
@@ -512,13 +588,13 @@ Commercial or short-term social visitors do not share standing in the host’s h
 
 ---
 
-### Exclusionary Rule
+## Exclusionary Rule
 
 A defendant with standing to invoke the exclusionary rule does so to prohibit the government from introducing evidence obtained as a direct or derivative result of an unreasonable search or seizure.
 
 ---
 
-### Fruit of the Poisonous Tree
+## Fruit of the Poisonous Tree
 
 Any evidence discovered through the initial illegality (including oral statements and physical objects) falls within the scope of the exclusionary rule. The constitutional violation “taints” the “fruit” derived from that violation. Hence, it is “fruit of that poisonous tree.”
 
@@ -540,13 +616,13 @@ Evidence discovered when police violate a defendant’s constitutional rights pr
 
 ---
 
-### Independent Source
+## Independent Source
 
 An exception applies when there is no causal connection between the violation of the defendant’s constitutional rights and the discovery of the evidence.
 
 ---
 
-### Inevitable Discovery
+## Inevitable Discovery
 
 There is an exception when evidence has been obtained through the defendant’s poisonous tree, but the prosecution can prove that the police would have discovered that evidence anyway through a different, independent source.
 
@@ -558,7 +634,7 @@ EXAMPLE: The defendant is arrested for driving under the influence. He voluntari
 
 ---
 
-### Attenuation
+## Attenuation
 
 This exception applies to evidence so distant from the initial illegality that the taint of the poisonous tree no longer infects the evidence.
 
@@ -579,19 +655,19 @@ EXAMPLE: Attenuation will often be asserted when police obtain a voluntary confe
 
 ---
 
-### Other Limitations to the Exclusionary Rule
+## Other Limitations to the Exclusionary Rule
 
 There are other limitations to the exclusionary rule.
 
 ---
 
-### Impeachment
+## Impeachment
 
 The exclusionary rule does not apply to the use of tainted evidence to impeach the defendant’s testimony. This means that the prosecution cannot use this evidence in their case-in-chief, but if a defendant gets on the stand and testifies, then the evidence can be used to impeach the defendant.
 
 ---
 
-### Good-Faith Exception
+## Good-Faith Exception
 
 When police rely in good faith on a facially valid warrant that is later determined by a reviewing court to be invalid, the evidence they seize will still be admissible.
 
@@ -626,7 +702,7 @@ When police use actual coercion to obtain a statement, that statement is involun
 
 ---
 
-### Coercion
+## Coercion
 
 Coercion is government conduct that overbears the free will of a suspect. **It is assessed based on the totality of the circumstances.** Factors to consider include (1) the defendant’s age, health, education, intelligence, gender, and cultural background; (2) the location, duration, and physical conditions of interrogation; (3)	the number and demeanor of police officers, and the suspect’s experience with the criminal justice system; and (4) any deception or trickery by the police.
 
@@ -638,7 +714,7 @@ Because coercion is based on the totality of the circumstances, police deception
 
 ---
 
-### Fifth Amendment Privilege against Self-Incrimination
+## Fifth Amendment Privilege against Self-Incrimination
 
 No person shall be compelled in a criminal case to be a witness against themselves.
 
@@ -648,7 +724,7 @@ The Fifth Amendment provides individuals with an absolute privilege to refuse to
 
 ---
 
-### Immunity to Eliminate Risk of Self-Incrimination
+## Immunity to Eliminate Risk of Self-Incrimination
 
 **Use and Derivative Use Immunity** prohibits the use of a witness’s testimony or any evidence derived from that testimony against the witness. The government can still prosecute the witness so long as the evidence has no connection to the testimony.
 
@@ -660,13 +736,13 @@ Use and derivative use immunity, granted together, meet the minimum threshold fo
 
 ---
 
-### Fifth Amendment Miranda Rule
+## Fifth Amendment Miranda Rule
 
 Statements obtained during custodial interrogation are inadmissible in the prosecution’s case-in-chief (opening statement through the prosecution resting) in the absence of Miranda warnings and proof of a valid waiver.
 
 ---
 
-### Valid Waiver
+## Valid Waiver
 
 Police must advise the suspect of their Miranda rights. A suspect must be advised that (1) they have the right to remain silent; (2) anything they say can be used against them in court; (3) they are entitled to an attorney; and (4) if they cannot afford an attorney, one will be provided.
 
@@ -694,7 +770,7 @@ Routine booking questions are not considered interrogation and do not trigger Mi
 
 ---
 
-### Invocation of Miranda Rights
+## Invocation of Miranda Rights
 
 In order to cut off questioning, a suspect must make an unambiguous and unequivocal statement invoking either the right to silence (“I don’t want to talk”) or the right to counsel (“I want a lawyer”).
 
@@ -706,7 +782,7 @@ If a person invokes their Miranda rights, the police may not resume questioning 
 
 ---
 
-### Waiver of Miranda Rights
+## Waiver of Miranda Rights
 
 If the suspect did not make a knowing and voluntary waiver, Miranda prohibits the use of the statement.
 
@@ -722,7 +798,7 @@ However, it is possible to comply with Miranda and still violate due process vol
 
 ---
 
-### Limitations and Exceptions to the Miranda Rule
+## Limitations and Exceptions to the Miranda Rule
 
 A Miranda violation does not result in the exclusion of other evidence derived from the inadmissible statement because it does not trigger the fruit of the poisonous tree doctrine.
 
@@ -730,13 +806,13 @@ The only evidentiary consequence of a Miranda violation is that the statement is
 
 ---
 
-### Public Safety Exception to Miranda Rule
+## Public Safety Exception to Miranda Rule
 
 When the purpose of police questioning is to protect the police or the public from imminent danger of serious harm, the police may question a suspect in custody without a Miranda warning or waiver.
 
 ---
 
-### Effect of Miranda Violation on the Admissibility of Subsequent Confessions
+## Effect of Miranda Violation on the Admissibility of Subsequent Confessions
 
 A statement made in violation of Miranda normally does not “taint” a subsequent statement made after a valid Miranda waiver, even if it repeats the same confession.
 
@@ -744,7 +820,7 @@ However, if the facts indicate that the police deliberately violated Miranda to 
 
 ---
 
-### Police Reinitiation of Questioning after a Miranda Invocation
+## Police Reinitiation of Questioning after a Miranda Invocation
 
 The validity of a waiver obtained by police who re-initiate questioning after a suspect previously cut off questioning with an unambiguous Miranda invocation depends on what Miranda right the suspect invoked.
 
@@ -776,7 +852,7 @@ EXAMPLE: Police were allowed to question a defendant without counsel about the m
 
 ---
 
-### Police Questioning of a Defendant
+## Police Questioning of a Defendant
 
 The deliberate elicitation of a pre-trial statement from a defendant is a “critical stage” triggering the Sixth Amendment right to assistance of counsel.
 
@@ -795,7 +871,7 @@ EXAM TIP: Remember, just because questioning does not implicate the Sixth Amendm
 
 ---
 
-### Fruit of the Poisonous Tree and Confessions
+## Fruit of the Poisonous Tree and Confessions
 
 If a statement is a “but for” consequence of a prior constitutional violation (normally, an arrest in violation of the Fourth Amendment), the statement may be inadmissible fruit of a poisonous tree unless the government can prove an exception, even if it complies with due process, Miranda, and the Sixth Amendment.
 
@@ -896,7 +972,7 @@ This “Alford” plea requires other evidence (like police reports) introduced 
 
 ---
 
-### Charging Discretion and Discriminatory Effect
+## Charging Discretion and Discriminatory Effect
 
 A charge that produces a discriminatory effect based on a discriminatory motive violates equal protection.
 
@@ -966,7 +1042,7 @@ EXAM TIP: No matter how deficient the lawyer’s performance was (i.e., sleeping
 
 ---
 
-### Ineffective Assistance and Plea Bargaining
+## Ineffective Assistance and Plea Bargaining
 
 If a lawyer’s incompetent advice leads a defendant to waive trial and accept a plea, the defendant can challenge the conviction by showing that there was a reasonable probability that the defendant would have pled not guilty had they received competent advice.
 
@@ -984,7 +1060,7 @@ EXAM TIP: Note that unlike the right to appointed counsel, the right to a jury i
 
 ---
 
-### Makeup of the Jury
+## Makeup of the Jury
 
 **Jury Pool:** The defendant has a right to jury selection from a fair cross-section of the community in the jurisdiction where the defendant is tried (ethnic and gender demographic).
 
@@ -1031,13 +1107,13 @@ Being previously charged is insufficient; the defendant must prove jeopardy had 
 
 ---
 
-### Same Offense
+## Same Offense
 
 Two crimes occurring out of the same transaction are considered the same offense, unless (1)	each charge stems from a separate criminal impulse (i.e., multiple victims in one transaction); or (2) each charge has a separate factual element.
 
 ---
 
-### Separate Sovereignties Doctrine
+## Separate Sovereignties Doctrine
 
 The Double Jeopardy Clause does not prevent dual prosecution by separate sovereigns; a defendant may be prosecuted for the same criminal conduct by separate sovereigns.
 

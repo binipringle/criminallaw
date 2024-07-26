@@ -5,20 +5,108 @@ author:
 editor: Sabina Pringle
 source:
 toc:
+- Elements of a Crime
+- Actus Reus
+- Voluntary Act
+- Omission of Duty
+- Mens Rea
+- Model Penal Code Mens Rea
+- Kinds of Culpability Defined
+- New York Penal Law Mens Rea
+- Types of Intent
+- Classification of Crimes
+- Causation
+- Actual cause
+- Proximate Cause
+- Assessing Foreseeability
+- Crimes Against Persons
+- Criminal Homicide
+- Murder
+- Malice
+- Intent to Cause Serious Bodily Injury
+- Depraved-Heart Murder
+- Felony Murder
+- Murder by Degrees
+- First Degree Murder
+- Second Degree Murder
+- Manslaughter
+- Voluntary Manslaughter
+- Involuntary Manslaughter
+- Reckless Homicide – Manslaughter
+- Gross Negligence Homicide
+- Misdemeanor Manslaughter
+- Other Crimes against Persons
+- Battery
+- Aggravated Battery
+- Defenses to Battery
+- Assault
+- Aggravated Felony Assault
+- Mayhem
+- False Imprisonment
+- Kidnapping
+- Abduction
+- Rape
+- Statutory Rape
+- Bigamy
+- Incest
+- Crimes Against Property
+- Theft Crimes
+- General Framework
+- Forms of Control
+- Larceny
+- Embezzlement
+- Honest Belief
+- Robbery
+- Theft by False Pretenses
+- Larceny by Trick
+- Extortion
+- Receiving Stolen Property
+- Forgery
+- Crimes Against the Habitation
+- Burglary
+- Arson
+- Inchoate Crimes
+- Solicitation
+- Attempt
+- Defenses to Attempt
+- Conspiracy
+- Procedural Issues with Conspiracy
+- Defenses to Conspiracy
+- Parties to Crime
+- Accomplice
+- Defenses to Accomplice Liability
+- Defenses
+- Excuse Defenses
+- Insanity
+- Four Tests to Show Insanity
+- Involuntary Intoxication
+- Voluntary Intoxication
+- Duress
+- Justification Defenses
+- Self-Defense
+- Homicidal Self-Defense or Deadly Force
+- Retreat Rule or Stand Your Ground Rule
+- Defense of Others
+- Defense of Property
+- Necessity
+- Footnotes
+---
+
+This is my outline for passing the bar exam.
 
 ---
 
-## Elements of a Crime
+# Elements of a Crime
 
 To establish criminal culpability in any criminal case, the prosecution must prove (1) actus reus, (2) mens rea, and (3) causation beyond a reasonable doubt.
 
-*EXAM TIP: The Model Penal Code (MPC) is a minority rule. Only apply if directed. Otherwise,  apply the majority rule, which is often the modern rule, or the common law (CL) rule if there is no modern majority rule.*
+*The Model Penal Code is a minority rule. Only apply if directed. Otherwise,  apply the majority rule, which is often the modern rule, or the common law rule if there is no modern majority rule.*
 
 ---
 
 # Actus Reus
 
-Actus reus requires a voluntary act or an omission of a duty to act.
+Actus reus requires a voluntary act or an omission if there was a duty to act.
 
 ---
 
