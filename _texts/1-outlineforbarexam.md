@@ -35,6 +35,7 @@ toc:
 - Reckless Homicide – Manslaughter
 - Gross Negligence Homicide
 - Misdemeanor Manslaughter
+- Intent to Cause Serious Bodily Harm Murder
 - Other Crimes against Persons
 - Battery
 - Aggravated Battery
@@ -74,6 +75,8 @@ toc:
 - Defenses to Conspiracy
 - Parties to Crime
 - Accomplice
+- Common Law Approach to Accomplice Liability
+- Aiding and Abetting
 - Defenses to Accomplice Liability
 - Defenses
 - Excuse Defenses
@@ -90,6 +93,7 @@ toc:
 - Defense of Property
 - Necessity
 - Footnotes
+
 ---
 
 This is my outline for passing the bar exam.
@@ -444,6 +448,12 @@ The defendant is unaware of the risk, but should have known. Examples include mi
 ### Misdemeanor Manslaughter
 
 Misdemeanor manslaughter is an unintentional killing that occurs during the commission or attempted commission of a misdemeanor that is malum in se, or of a felony that is not of the inherently dangerous type required for felony murder.
+
+---
+
+### Intent to Cause Serious Bodily Harm Murder
+
+Intent-to-cause-serious-bodily-harm murder is an unintentional killing proximately resulting from an act intended to cause great bodily injury. Absent justification, excuse, or mitigation, intent-to-cause-serious-bodily-harm satisfies the malice element for general-intent murder. Here, the soldier and his friend entered into an agreement whereby the friend would inflict serious bodily harm on the soldier by shooting him in the foot. Because the friend intended to seriously injure the soldier, and because the friend's act proximately caused the soldier's death, the friend may be found guilty of intent-to-inflict-serious-bodily-injury murder.
 
 ---
 
@@ -918,15 +928,7 @@ Accomplices are responsible for crimes that are purposefully facilitated and all
 
 ---
 
-### Defenses to Accomplice Liability
-
-**Renunciation:**
-
-An accomplice may avoid accomplice liability, before the crime begins, if that accomplice (1) stopped assisting and encouraging the principal; and (2) effectively communicated to the principal their intent to withdraw.
-
-A minority of jurisdictions require the accomplice to neutralize their prior assistance or encouragement. However, these jurisdiction do not additionally require the accomplice to try to thwart the commission of the crime.
-
-**Common Law Approach to Accomplice Liability:**
+## Common Law Approach to Accomplice Liability
 
 Principal in the first degree is the “trigger puller” – the perpetrator who performs the act with the requisite mental state.
 
@@ -940,8 +942,23 @@ To show that a person was an accessory, the prosecutor must prove that (1) there
 
 EXAMPLE: Harry’s wife knows that he is going to burglarize a home. When he gets home, he tells her things went bad and he had to shoot the homeowner. When police come to the home looking for Harry, his wife lies and tells them he is not home. Harry’s wife is an accessory after the fact and can now be charged with burglary and murder (under common law).
 
-
 In all modern Jurisdictions one who meets the requirements to be a common law accessory after the fact is charged with a distinct crime, such as hindering apprehension or obstruction of justice, not with the crimes committed by the principal.
+
+---
+
+### Aiding and Abetting
+
+A party who, with the requisite intent, aids, abets, or encourages the commission of a crime while at or near the scene of the crime is a principal in the second degree.
+
+---
+
+### Defenses to Accomplice Liability
+
+**Renunciation:**
+
+An accomplice may avoid accomplice liability, before the crime begins, if that accomplice (1) stopped assisting and encouraging the principal; and (2) effectively communicated to the principal their intent to withdraw.
+
+A minority of jurisdictions require the accomplice to neutralize their prior assistance or encouragement. However, these jurisdiction do not additionally require the accomplice to try to thwart the commission of the crime.
 
 ---
 
